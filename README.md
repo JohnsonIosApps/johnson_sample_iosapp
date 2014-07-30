@@ -8,5 +8,4 @@ OSX  : Version 10.9.3
 
 Thanks
 Johnson J.
-© johnson.iosapps
 =====================
